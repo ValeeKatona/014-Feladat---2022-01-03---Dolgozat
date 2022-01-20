@@ -1,3 +1,12 @@
+/*
+* File: app.js
+* Author: Katona Valentin
+* Copyright: 2022, Katona Valentin
+* Group: Szoft II N
+* Date: 2022-01-20
+* Github: https://github.com/djvalee/
+* Licenc: GNU GPL
+*/
 import { StatusBar } from 'expo-status-bar';
 import React, {Component} from 'react';
 import { Button, TextInput, View, Text, StyleSheet, Image } from 'react-native';
